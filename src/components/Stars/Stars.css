@@ -1,0 +1,13 @@
+.card-body-stars{
+    display: flex;
+    list-style-type: none;
+}
+
+.star {
+    margin: 0 10px;
+    transition: all 0.5s ease;
+}
+
+.star:hover {
+    scale: 1.2;
+}
